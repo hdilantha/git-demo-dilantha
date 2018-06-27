@@ -21,8 +21,8 @@ public class Main {
 		} else {
 			System. out.println( "Unsupported operation" );
 		}
-		}
-		private static int add( int a, int b) {
+	}
+	private static int add( int a, int b) {
 		return a + b;
 	}
 }
